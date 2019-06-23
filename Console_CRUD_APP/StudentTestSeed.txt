@@ -1,0 +1,2 @@
+FirstName,LastName,Major,GPA
+Kenneth,Melendez,Computer Science,3.0
